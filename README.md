@@ -23,13 +23,7 @@ A multi-functional command-line personal assistant application built with Python
 - `datetime` – For date handling
 - `random` – (Optional) For future random quiz or movie suggestions
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-Make sure you have Python 3 installed:
-```bash
-python --version
 
 🙋‍♂️ **About the Developer**    <br>
 👨‍💻 Dhananjay Kothawale <br>
